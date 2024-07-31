@@ -2,4 +2,3 @@
 
 _app2.default.listen(process.env.APP_PORT);
 
-//teste
